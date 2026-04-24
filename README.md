@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://twitter.com/mirthhhh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirthhhh_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mirth-pawar-m08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirth-pawar-m08" height="30" width="40" /></a>
-<a href="https://instagram.com/mirthhhh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirthhhh_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mirthhpawar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mirthhpawar8" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/demolisher08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="demolisher08" height="30" width="40" /></a>
 </p>
